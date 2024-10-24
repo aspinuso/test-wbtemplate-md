@@ -55,6 +55,9 @@
     <loc>https://aspinuso.github.io/test-wbtemplate-md/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://aspinuso.github.io/test-wbtemplate-md/instructor/tutorial.html</loc>
+  </url>
+  <url>
     <loc>https://aspinuso.github.io/test-wbtemplate-md/instructor-notes.html</loc>
   </url>
   <url>
@@ -71,5 +74,8 @@
   </url>
   <url>
     <loc>https://aspinuso.github.io/test-wbtemplate-md/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://aspinuso.github.io/test-wbtemplate-md/tutorial.html</loc>
   </url>
 </urlset>
