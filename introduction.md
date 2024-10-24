@@ -17,7 +17,7 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## FAIR data principles (motivation for archiving code, figures, input data and metadata) 
+## Instruction to edit this manual
 
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
@@ -72,6 +72,7 @@ You can add a line with at least three colons and a `solution` tag.
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+
 ## The experience in AR6 and shortcomings, including some examples. 
 
 You can use standard markdown for static figures with the following syntax:
@@ -93,8 +94,6 @@ e.g. by providing the answer to a commonly-asked question.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Fundamentals of Sustainable Research Software (SMP)
-
-## Code management: Git and Best Practices, notebooks 
 
 ## Fundamentals of Research Data Management
 
