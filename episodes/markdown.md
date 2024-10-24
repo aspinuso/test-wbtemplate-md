@@ -1,5 +1,5 @@
 ---
-title: "Editing Tutorial - This Manual"
+title: "Editing Tutorial - Markdown"
 teaching: 10
 exercises: 2
 ---
