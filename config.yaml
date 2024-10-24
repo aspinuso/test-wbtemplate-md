@@ -67,7 +67,6 @@ contact: 'a.spinuso79@gmail.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
-- AR6Experience.md
 
 # Information for Learners
 learners: 
