@@ -29,8 +29,9 @@ spreadsheet sam, notebook nancy, script sandy
 ## Categories and governance of digital IPCC products
   From figures to interactive applicatio
 
-#### IP, credit and ownership 
+### IP, credit and ownership 
 IPCC applications vs external sponsored applications
-#### Review process
-#### Lifecycle 
+
+### Review process
+### Lifecycle 
 Including hosting and maintenance of final products (TSU+IPCC-DDC)
