@@ -1,17 +1,28 @@
 ---
-title: 'Computing $\pi$'
+title: 'AR7 Tutorial  AR7'
 teaching: 60
 exercises: 30
 ---
 
 :::questions
-- How do I parallelize a Python application?
-- What is data parallelism?
-- What is task parallelism?
+- How do I generate digital outputs?
+- How do I describe and curate digital outputs?
+- How do I transfer to the TSU the digital outputs?
 :::
 
 :::objectives
-- Rewrite a program in a vectorized form.
-- Understand the difference between data and task-based parallel programming.
-- Apply `numba.jit` to accelerate Python.
-:::
+- Produce data and figures (tooling/programming)
+- Create and Manage a software repository
+- Generate Metadata
+- Obtain a DOI for data
+- Obtain a DOI for software
+ :::
+
+## Author profiles (spreadsheet sam, notebook nancy, script sandy)
+
+## Categories and governance of digital IPCC products: From figures to interactive applicatio
+
+#### IP, credit and ownership (IPCC applications vs external sponsored applications)
+#### Review process, 
+#### Lifecycle, including hosting and maintenance of final products (TSU+IPCC-DDC)
+#### The AR6 experience and lessons learnt
