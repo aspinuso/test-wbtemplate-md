@@ -67,6 +67,7 @@ contact: 'a.spinuso79@gmail.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- ipcc-fair.md
 - tutorial.md
 
 # Information for Learners
