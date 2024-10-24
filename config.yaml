@@ -18,7 +18,7 @@ carpentry: 'incubator'
 carpentry_description: 'Test IPCC'
 
 # Overall title for pages.
-title: 'IPCC Author tutorial' # FIXME
+title: 'IPCC Authors tutorial' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: ~ # FIXME
