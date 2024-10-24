@@ -8,6 +8,7 @@ exercises: 30
 - How do I generate digital outputs?
 - How do I describe and curate digital outputs?
 - How do I transfer to the TSU the digital outputs?
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::: objectives
@@ -16,6 +17,7 @@ exercises: 30
 - Generate Metadata
 - Obtain a DOI for data
 - Obtain a DOI for software
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Author profiles (spreadsheet sam, notebook nancy, script sandy)
