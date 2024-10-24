@@ -1,5 +1,5 @@
 ---
-title: 'AR7 Tutorial  AR7'
+title: 'AR7 Tutorial'
 teaching: 60
 exercises: 30
 ---
@@ -20,11 +20,17 @@ exercises: 30
   
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Author profiles (spreadsheet sam, notebook nancy, script sandy)
 
-## Categories and governance of digital IPCC products: From figures to interactive applicatio
+## The AR6 experience and lessons learnt
 
-#### IP, credit and ownership (IPCC applications vs external sponsored applications)
-#### Review process, 
-#### Lifecycle, including hosting and maintenance of final products (TSU+IPCC-DDC)
-#### The AR6 experience and lessons learnt
+## Author profiles 
+spreadsheet sam, notebook nancy, script sandy
+
+## Categories and governance of digital IPCC products
+  From figures to interactive applicatio
+
+#### IP, credit and ownership 
+IPCC applications vs external sponsored applications
+#### Review process
+#### Lifecycle 
+Including hosting and maintenance of final products (TSU+IPCC-DDC)
