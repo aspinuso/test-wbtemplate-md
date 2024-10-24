@@ -1,5 +1,5 @@
 ---
-title: "IPCC FAIR Background"
+title: "Using Markdown"
 teaching: 10
 exercises: 2
 ---
@@ -17,7 +17,7 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Instruction to edit this manual
+## Introduction
 
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
@@ -72,8 +72,7 @@ You can add a line with at least three colons and a `solution` tag.
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-## The experience in AR6 and shortcomings, including some examples. 
+## Figures
 
 You can use standard markdown for static figures with the following syntax:
 
@@ -93,11 +92,6 @@ e.g. by providing the answer to a commonly-asked question.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Fundamentals of Sustainable Research Software (SMP)
-
-## Fundamentals of Research Data Management
-
-## Models of interactive products: Storytelling, layered storytelling, static vs dynamic, GIS-based models. 
 
 ## Math
 
