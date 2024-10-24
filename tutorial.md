@@ -4,13 +4,13 @@ teaching: 60
 exercises: 30
 ---
 
-:::questions
+:::::::::::::::::::::::::::::::::::::: questions
 - How do I generate digital outputs?
 - How do I describe and curate digital outputs?
 - How do I transfer to the TSU the digital outputs?
 :::
 
-:::objectives
+:::::::::::::::::::::::::::::::::::::: objectives
 - Produce data and figures (tooling/programming)
 - Create and Manage a software repository
 - Generate Metadata
